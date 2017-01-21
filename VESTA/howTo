@@ -1,0 +1,6 @@
+http://jp-minerals.org/vesta/en/
+
+skine se .tar.bz2 fajl za moj sistem (x86)
+tar xvfj .tar.bz2
+
+otpakuje se folder u kojem je skripta koja ga pokrece i samo dodam putanju ka VESTA* u PATH i to je to.
