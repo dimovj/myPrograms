@@ -1,0 +1,7 @@
+Imam instalaciju na externom HDD, 2014b, crack za linux, pripremljenu (samostalna priprema)
+ReadMe file sam otvorila u emacsu i onda kompajlirala kao .tex i radilo je
+
+pratila uputstva i poslednje uputstvo da se libwmservice.so zameni sa onim u crack folderu, u pitanju je putanja gde je u linuksu smesten matlab
+/usr/local/MATLAB/bin/glnx64 ... 
+
+morala sam da dodam /usr/local/MATLAB/bin u PATH i to je to
